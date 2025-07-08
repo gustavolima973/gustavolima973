@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#6c5ce7,#c0392b&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#6c5ce7,#6c5ce7&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4b7d&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+bem-vindo(a)+ao+meu+perfil!;Aqui+compartilho+meus+projetos+e+aprendizados.)](https://git.io/typing-svg)
 
@@ -38,4 +38,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#c0392b,#6c5ce7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#6c5ce7,#6c5ce7&height=120&section=footer"/>
