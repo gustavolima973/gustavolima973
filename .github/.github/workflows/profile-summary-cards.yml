@@ -1,4 +1,4 @@
-name: 📝 Generate profile summary cards
+name: Generate profile cards
 
 on:
   schedule:
