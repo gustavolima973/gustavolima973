@@ -1,0 +1,33 @@
+name: 📝 Generate profile summary cards
+
+on:
+  schedule:
+    # Roda todo dia 02:00 UTC (23h em Brasília)
+    - cron: '0 2 * * *'
+  workflow_dispatch:            # habilita botão "Run workflow"
+  push:                         # se você alterar este arquivo, já dispara
+    paths:
+      - .github/workflows/profile-summary-cards.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repos
+        uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
+        with:
+          USERNAME: gustavolima973
+          UTC_OFFSET: -3                 # horário de Brasília
+          CARD_THEME: dracula            # tema (veja outros na docs)
+
+      - name: Commit & push
+        run: |
+          git config --local user.email "noreply@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-summary-card-output
+          git commit -m "chore: update profile summary cards" || echo "No changes"
+          git push
+          add summary-cards workflow
