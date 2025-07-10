@@ -25,7 +25,7 @@ jobs:
           USERNAME: gustavolima973
           UTC_OFFSET: -3
           CARD_THEME: dracula
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ← TOKEN AQUI
+          ACCESS_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}    # ← TOKEN AQUI
 
       - name: Commit & push
         run: |
