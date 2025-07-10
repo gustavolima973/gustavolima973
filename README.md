@@ -1,41 +1,42 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#6c5ce7,#6c5ce7&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c5ce7,ff4b7d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4b7d&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+bem-vindo(a)+ao+meu+perfil!;Aqui+compartilho+meus+projetos+e+aprendizados.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4b7d&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Sou+Gustavo+Lima;Desenvolvedor+Backend;Engenharia+de+Software+na+UnB)](https://git.io/typing-svg)
 
 ## ✨ Sobre mim
 
-📌 Desenvolvedor Backend em formação  
-📌 Cursando o 8º semestre de **Engenharia de Software** na Universidade de Brasília (UnB)  
-📌 Sempre buscando evoluir como profissional e como pessoa
+📌 Desenvolvedor Backend  
+📌 Estudante de Engenharia de Software (UnB)  
+📌 Apaixonado por tecnologia e automação  
+📌 Focado em qualidade de código e boas práticas
 
 ---
 
 ## 🚀 Tecnologias que já utilizei
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,nodejs,javascript&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 GitHub Stats
+
+[![](https://raw.githubusercontent.com/gustavolima973/gustavolima973/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/gustavolima973/gustavolima973/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/gustavolima973/gustavolima973/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/gustavolima973/gustavolima973/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
+## 📬 Redes sociais
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavolima973&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolima973&layout=compact&theme=radical"/>
+<a href="https://www.linkedin.com/in/gustavo-lima-menezes/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:guslm.30@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Email.svg" alt="Email" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 📬 Contato
-
-- ✉️ Email: guslm.30@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-lima-menezes/)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#6c5ce7,#6c5ce7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4b7d,6c5ce7&height=120&section=footer"/>
